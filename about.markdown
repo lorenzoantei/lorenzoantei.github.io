@@ -1,18 +1,26 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
+navbar: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Lorenzo Antei was born in 1994 in La Spezia, Italy.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Currently studying “Nuove Tecnologie dell’Arte” at Accademia di Belle Arti di Carrara (it).
 
 
-[jekyll-organization]: https://github.com/jekyll
+[lorenzoantei@protonmail.com](mailto:lorenzoantei@protonmail.com)
+
+[telegram @lorenzoantei](https://www.t.me/lorenzoantei)
+
+My profiles:
+facebook
+
+[IG](https://www.instagram.com/lorenzoantei.it/)
+
+github
+
+You can find the source code for this website at GitHub:
+[github lorenzoantei.github.io](jekyll-organization)
+fix
