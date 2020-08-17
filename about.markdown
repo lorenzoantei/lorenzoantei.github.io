@@ -21,6 +21,4 @@ facebook
 
 github
 
-You can find the source code for this website at GitHub:
-[github lorenzoantei.github.io](jekyll-organization)
-fix
+You can find the source code for this website at [GitHub](https://github.com/lorenzoantei/lorenzoantei.github.io).

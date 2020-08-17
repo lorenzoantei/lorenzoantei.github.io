@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-//  border-top: 5px solid $grey-color-dark;
+  padding-top: 5px;
 //  border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
@@ -22,7 +22,7 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: rgb(64, 64, 64);
   }
 }
 
@@ -39,13 +39,17 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: rgb(128, 128, 128);
     line-height: $base-line-height;
     font-family: 'Poppins', sans-serif;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
+    }
+
+    &:hover {
+      color: black;
     }
   }
 
