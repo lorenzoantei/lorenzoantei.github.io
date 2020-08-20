@@ -7,4 +7,13 @@ layout: home
 
 ![img](https://res.cloudinary.com/lorenzoantei-github-io/image/upload/v1597593895/croazia3_069_4863_vxhcfv.jpg)
 
-Ultime esperienze:
+<div
+style="
+
+padding-top: 25px;
+text-align: center;
+
+">
+
+<h2> Ultime esperienze: </h2>
+</div>

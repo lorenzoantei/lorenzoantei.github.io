@@ -8,7 +8,7 @@ tags: [piuomenopop, photostory]
 
 
 <a href="https://www.piuomenopop.it/index.php/2018/10/14/internet-festival-al-teatro-verdi-viaggio-nel-rock-cosmico-dei-tangerine-dream-tutte-le-foto/">
-<img alt="tangerinedream-if-landing" src="/assets/media/images/posts/tangerinedream-if.jpg" class="posts-main-img">
+<img alt="tangerinedream-if-landing" src="https://res.cloudinary.com/lorenzoantei-github-io/image/upload/v1597662079/live/tangerinedream-if_tfdse0.jpg">
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2018/10/14/internet-festival-al-teatro-verdi-viaggio-nel-rock-cosmico-dei-tangerine-dream-tutte-le-foto/)
 
 {% include tag-list.html %}

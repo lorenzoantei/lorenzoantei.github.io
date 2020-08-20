@@ -8,7 +8,7 @@ tags: [piuomenopop, photostory]
 
 
 <a href="https://www.piuomenopop.it/index.php/2018/08/10/viino-musica-e-spettacolo-nel-centro-storico-di-castelnuovo-magra-sp-con-i-cage-tutte-le-foto/" >
-<img alt="cage-vino-landing" src="/assets/media/images/posts/cage-vino.jpg" class="posts-main-img">
+<img alt="cage-vino-landing" src="https://res.cloudinary.com/lorenzoantei-github-io/image/upload/v1597662079/live/cage-vino_bfyhxn.jpg">
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2018/08/10/viino-musica-e-spettacolo-nel-centro-storico-di-castelnuovo-magra-sp-con-i-cage-tutte-le-foto/)
 
 {% include tag-list.html %}
