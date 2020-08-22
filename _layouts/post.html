@@ -24,5 +24,11 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+  <div style="
+  text-align: center;
+  ">
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  </div>
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
