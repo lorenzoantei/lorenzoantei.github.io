@@ -19,3 +19,5 @@ My profiles:
 [YT](https://www.youtube.com/channel/UCpPWBKTm7s7JaBeD8DfnDuA/videos)
 
 You can find the source code for this website at [GitHub](https://github.com/lorenzoantei/lorenzoantei.github.io).
+# aggiungere crediti zooming kingdido999
+https://kingdido999.github.io/zooming/docs/#/configuration
