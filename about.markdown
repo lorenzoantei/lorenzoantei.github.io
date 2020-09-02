@@ -5,22 +5,30 @@ permalink: /about/
 navbar: true
 ---
 
-Lorenzo Antei was born in 1994 in La Spezia, Italy. Currently studying “Nuove Tecnologie dell’Arte” at Accademia di Belle Arti di Carrara (it).
+![https://giphy.com/gifs/eGOwh9agrKS8BWf8BH](https://media.giphy.com/media/eGOwh9agrKS8BWf8BH/giphy.gif)
+
+Lorenzo Antei, classe 1994, La Spezia (it).\
+Scatto foto, registro video e creo con Arduino come [svago](https://www.instagram.com/lorenzoantei_/) e come [lavoro](../resume).
+
 <br>
-<br>
-[lorenzoantei@protonmail.com](mailto:lorenzoantei@protonmail.com)
-<br>
+
+#### Contatti
+[lorenzoantei@protonmail.com](mailto:lorenzoantei@protonmail.com)\
 [telegram @lorenzoantei](https://www.t.me/lorenzoantei)
 
-My profiles:
+<br>
+
+#### "Social"
 [FB](https://www.facebook.com/lorenzoanteilorenzo/) -
-[IG](https://www.instagram.com/lorenzoantei.it/) -
+[IG](https://www.instagram.com/lorenzoantei_/) -
 [Vimeo](https://vimeo.com/user115048394) -
-[YT](https://www.youtube.com/channel/UCpPWBKTm7s7JaBeD8DfnDuA/videos)
+[YT](https://www.youtube.com/channel/UCpPWBKTm7s7JaBeD8DfnDuA/videos) -
+[Giphy](https://giphy.com/channel/lorenzoantei)
 
 <br>
-### Credits
 
-You can find the source code for this website at [GitHub](https://github.com/lorenzoantei/lorenzoantei.github.io).
+#### Credits
 
-[Zooming script by kingdido999](https://kingdido999.github.io/zooming/)
+Il sorgente di questo sito >> [GitHub](https://github.com/lorenzoantei/lorenzoantei.github.io).
+
+[Zooming script - kingdido999](https://kingdido999.github.io/zooming/)
