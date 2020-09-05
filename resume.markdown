@@ -8,7 +8,7 @@ navbar: false
 <br>
 
 <div style="text-align: right;">
-<a href="../files/cv.pdf">pdf</a>
+<a href="../files/LorenzoAntei_CV.pdf">Download pdf</a>
 </div>
 
 Lorenzo Antei\
