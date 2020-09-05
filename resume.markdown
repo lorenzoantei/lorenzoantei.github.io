@@ -46,8 +46,9 @@ Centrica S.r.l. (Piazza della Madonna della Neve, 5 – 50122 Firenze) – [cent
 <br>
 
 #### Nessiah Festival (da novembre '18)
-Il Festival Nessiah è un festival nato per esplorare e raccontare la cultura ebraica in tutte le sue sfaccettature, mostrando la ricchezza della sua storia millenaria e la varietà delle tradizioni di luoghi diversi. Per il festival ho realizzato i reportage degli eventi, le riprese video e ho realizzato lo spot delle edizioni 2018 e 2019 e altri filmati promozionali.
+Il Festival Nessiah è un festival nato per esplorare e raccontare la cultura ebraica in tutte le sue sfaccettature, mostrando la ricchezza della sua storia millenaria e la varietà delle tradizioni di luoghi diversi. Per il festival ho realizzato i reportage degli eventi, le riprese video e ho realizzato lo spot delle edizioni 2018 e 2019 e altri filmati promozionali.\
 [festivalnessiah.it](http://www.festivalnessiah.it/)
+
 <br>
 
 #### FuoriOpera (da novembre '18)
