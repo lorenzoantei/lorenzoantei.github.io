@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moonland - BowLand (P.zza Matteotti, Sarzana)
+title: Moonland - P.F.M. - T.V.B. (P.zza Matteotti, Sarzana)
 description: foto del concerto
 tags: [piuomenopop, photostory]
 ---
