@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Celebration
-permalink: /celebration/
+permalink: /portfolio-emkey/
 navbar: false
 ---
 
