@@ -2,7 +2,7 @@
 layout: post
 title: The Zen Circus - Andate tutti affanculo (Paladozza, BO)
 description: foto del concerto
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
 
 <a href="https://www.piuomenopop.it/index.php/2019/04/13/andate-tutti-affanco-tra-sorrisi-e-lacrime-guarda-le-foto/" >
@@ -10,3 +10,4 @@ tags: [piuomenopop, photostory]
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2019/04/13/andate-tutti-affanco-tra-sorrisi-e-lacrime-guarda-le-foto/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

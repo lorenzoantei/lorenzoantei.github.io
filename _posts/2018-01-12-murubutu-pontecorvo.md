@@ -2,7 +2,7 @@
 layout: post
 title: Murubutu - Deposito Pontecorvo
 description: Concerto di Murubutu al Deposito Pontecorvo (PI)
-tags: [radioeco, photostory]
+tags: [radioeco, photostory, live]
 ---
 
 <div class="media-container">
@@ -12,3 +12,4 @@ tags: [radioeco, photostory]
 <br>
 
 {% include tag-list.html %}
+{% include sharealike.html %}

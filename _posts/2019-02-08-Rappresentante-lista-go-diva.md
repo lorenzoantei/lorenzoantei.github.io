@@ -2,7 +2,7 @@
 layout: post
 title: La Rappresentante di Lista - GO GO DIVA (Cinema Lumiere, PI)
 description: foto del concerto al Cinema Lumiere di Pisa
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
 
 <a href="https://www.piuomenopop.it/index.php/2019/02/10/la-rappresentante-di-lista-incanta-tutti-sold-out-al-lumiere-di-pisa-tutte-le-foto/" >
@@ -10,3 +10,4 @@ tags: [piuomenopop, photostory]
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2019/02/10/la-rappresentante-di-lista-incanta-tutti-sold-out-al-lumiere-di-pisa-tutte-le-foto/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

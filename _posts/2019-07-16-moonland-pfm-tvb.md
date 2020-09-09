@@ -2,8 +2,9 @@
 layout: post
 title: Moonland - P.F.M. - T.V.B. (P.zza Matteotti, Sarzana)
 description: foto del concerto
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
+
 PFM: TVB (The Very Best)\
 Dopo il loro tour mondiale, PFM da il via alle sue tappe estive con la prima data del Moonland, il festival di Sarzana. In piazza Giacomo Matteotti, il gruppo ha portato alcuni dei pezzi più importanti della loro storia.
 
@@ -12,3 +13,4 @@ Dopo il loro tour mondiale, PFM da il via alle sue tappe estive con la prima dat
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2019/07/17/pfm-tvb-the-very-best-al-moonland-di-sarzana-tutte-le-foto/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

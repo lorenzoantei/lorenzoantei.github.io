@@ -2,7 +2,7 @@
 layout: post
 title: Populous - Cinema Lumiere
 description: Concerto di Populous e Narobba al Cinema Lumiere (PI)
-tags: [radioeco, photostory]
+tags: [radioeco, photostory, live]
 ---
 
 <div class="media-container">
@@ -20,3 +20,4 @@ Di recente i grandi successi con le produzioni con MYSS KETA. Nel 2010 vince il 
 Dopo "Night Safari", disco che ha definitivamente consacrato Populous come uno degli artisti e producer più interessanti a livello internazionale, arriva  "Azulejos" un'altra bellissima produzione.
 
 {% include tag-list.html %}
+{% include sharealike.html %}

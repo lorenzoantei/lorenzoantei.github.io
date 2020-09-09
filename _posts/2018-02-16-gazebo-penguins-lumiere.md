@@ -2,7 +2,7 @@
 layout: post
 title: Gazebo Penguins - Cinema Lumiere
 description: Concerto dei Gazebo Penguins al Cinema Lumiere (PI)
-tags: [radioeco, photostory]
+tags: [radioeco, photostory, live]
 ---
 
 <div class="media-container">
@@ -16,3 +16,4 @@ I Gazebo Penguins sono sempre stati in 3, e ora sono in 4. Hanno fatto uscire du
 "Continuano a fare musica perché pensano sia una cosa che gli viene bene, ma soprattutto li fa stare bene. E vorrebbero farlo per tutta la vita."
 
 {% include tag-list.html %}
+{% include sharealike.html %}

@@ -2,7 +2,7 @@
 layout: post
 title: Esterina + EDDA - Cinema Lumiere (PI)
 description: Esterina + EDDA - Cinema Lumiere (PI)
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
 
 <a href="https://www.piuomenopop.it/index.php/2018/10/07/il-rock-italiano-degli-esterina-arriva-al-lumiere-di-pisa-con-un-ospite-deccezione-tutte-le-foto/">
@@ -10,3 +10,4 @@ tags: [piuomenopop, photostory]
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2018/10/07/il-rock-italiano-degli-esterina-arriva-al-lumiere-di-pisa-con-un-ospite-deccezione-tutte-le-foto/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

@@ -2,7 +2,7 @@
 layout: post
 title: PFM canta De André (Tuscany Hall, FI)
 description: foto del concerto
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
 
 <a href="https://www.piuomenopop.it/index.php/2019/03/29/pfm-canta-de-andre-live-al-tuscany-hall-fi-tutte-le-foto/" >
@@ -10,3 +10,4 @@ tags: [piuomenopop, photostory]
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2019/03/29/pfm-canta-de-andre-live-al-tuscany-hall-fi-tutte-le-foto/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

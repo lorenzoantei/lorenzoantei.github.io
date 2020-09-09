@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lista photostory radioeco
+navbar: false
 ---
 
 1) Daground 2K18
@@ -8,8 +9,6 @@ giorno 2
 https://www.facebook.com/media/set/?set=a.10160551737010313.1073742373.135628275312&type=1&l=7f733685be
 giorno 3
 https://www.facebook.com/media/set/?set=a.10160556333380313.1073742374.135628275312&type=1&l=727437315d
-
-
 
 5) Il natale con gli Zen #13 @ SwampClub
 26/12/2017

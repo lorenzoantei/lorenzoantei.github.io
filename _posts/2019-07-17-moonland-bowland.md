@@ -2,8 +2,9 @@
 layout: post
 title: Moonland - BowLand (P.zza Matteotti, Sarzana)
 description: foto del concerto
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
+
 BowLand, ensamble di origini iraniane, si è esibito ieri al Moonland festival di Sarzana. Nato nel 2015, il progetto fonde un sound riconducibile al trip hop con influenze orientali. Arrivato quarto all’edizione 2018 di X-Factor, il gruppo si sta esibendo quest’anno anche sul suolo italiano.\
 Il gruppo è composto da:
 - Lei Low – voce;
@@ -15,3 +16,4 @@ Il gruppo è composto da:
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2019/07/18/bowland-larte-magica-che-ha-ammaliato-il-moonland-le-foto/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

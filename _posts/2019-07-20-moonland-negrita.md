@@ -2,7 +2,7 @@
 layout: post
 title: Moonland - Negrita (P.zza Matteotti, Sarzana)
 description: foto del concerto
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
 
 <a href="https://www.piuomenopop.it/index.php/2019/07/21/negrita-moonland/" >
@@ -14,3 +14,4 @@ tags: [piuomenopop, photostory]
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2019/07/21/negrita-moonland/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

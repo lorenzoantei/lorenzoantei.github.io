@@ -2,7 +2,7 @@
 layout: post
 title: Moonland - Moca, Chierico e Fulminacci (P.zza Matteotti, Sarzana)
 description: foto del concerto
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
 
 <a href="https://www.piuomenopop.it/index.php/2019/07/22/moca-daerico-e-fuliminacci-in-chiusura-al-moonland-sarzana-tutte-le-foto/" >
@@ -10,3 +10,4 @@ tags: [piuomenopop, photostory]
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2019/07/22/moca-daerico-e-fuliminacci-in-chiusura-al-moonland-sarzana-tutte-le-foto/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

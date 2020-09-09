@@ -2,7 +2,7 @@
 layout: post
 title: Colapesce - Cinema Lumiere
 description: Concerto di Colapesce con apertura Massimo Tarchia al Cinema Lumiere (PI)
-tags: [radioeco, photostory]
+tags: [radioeco, photostory, live]
 ---
 
 <div class="media-container">
@@ -14,3 +14,4 @@ tags: [radioeco, photostory]
 Lorenzo Urciullo, in arte Colapesce, il cantautore siciliano che Le Monde ha definito «l’erede di Lucio Dalla e Franco Battiato», arriva Sabato 10 Marzo al Lumiere Pisa, per il live del tour che porta in giro il suo terzo disco 'Infedele'(2017). Otto brani che navigano, con grazia e naturalezza, tra generi diversi. C’è il free jazz, il pop, c’è l’elettronica, si sentono l’eco di Battiato, appunto, e Tenco, un fado «liquido» e ritmi tribali. Ma i diversi mondi esplorati sono tenuti insieme da molte corde, e più di tutte da una scrittura preziosa e quasi tridimensionale, che ad ogni ascolto rivela strati nascosti.
 
 {% include tag-list.html %}
+{% include sharealike.html %}

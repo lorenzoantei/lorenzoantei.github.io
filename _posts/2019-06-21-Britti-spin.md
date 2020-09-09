@@ -2,7 +2,7 @@
 layout: post
 title: Alex Britti On Stage - Spin TOUR (Deposito Pontecorvo, PI)
 description: foto del concerto
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
 
 <a href="https://www.piuomenopop.it/index.php/2019/06/22/alex-britti-spin-la-spezia-tutte-le-foto/" >
@@ -10,3 +10,4 @@ tags: [piuomenopop, photostory]
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2019/06/22/alex-britti-spin-la-spezia-tutte-le-foto/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

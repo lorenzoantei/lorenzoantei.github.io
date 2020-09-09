@@ -2,7 +2,7 @@
 layout: post
 title: Paletti & ELSO - Cinema Lumiere
 description: Concerto di Paletti con apertura ELSO al Cinema Lumiere (PI)
-tags: [radioeco, photostory]
+tags: [radioeco, photostory, live]
 ---
 
 <div class="media-container">
@@ -33,3 +33,4 @@ Tutto ha inizio dopo la scomparsa del nonno, il vero Elso.
 Lo fa mischiando sangue ed elettronica, merda e amore, pop ed ansia, luci a led, arduino e tantissimi watt.
 
 {% include tag-list.html %}
+{% include sharealike.html %}

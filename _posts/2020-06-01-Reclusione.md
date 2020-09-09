@@ -2,7 +2,7 @@
 layout: post
 title: Reclusione
 description: Diario personale ai tempi della pandemia
-tags: [piuomenopop, photostory]
+tags: [photo]
 ---
 Diario personale ai tempi della pandemia. 24 foto.
 
@@ -102,3 +102,4 @@ Diario personale ai tempi della pandemia. 24 foto.
 <img alt="reclusione_24" src="https://res.cloudinary.com/lorenzoantei-github-io/image/upload/v1599402488/reclusione/24_-_carrello__FXT30146_hd9n8n.jpg" class='img-zoomable'>
 
 <br>
+{% include sharealike.html %}

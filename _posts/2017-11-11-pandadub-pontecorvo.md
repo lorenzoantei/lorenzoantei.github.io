@@ -2,7 +2,7 @@
 layout: post
 title: Panda Dub - Deposito Pontecorvo
 description: Concerto di Panda Dub al Deposito Pontecorvo (PI)
-tags: [radioeco, photostory]
+tags: [radioeco, photostory, live]
 ---
 
 <div class="media-container">
@@ -19,3 +19,4 @@ Tra le sue collaborazioni, quelle con le etichette PAPROOTA.ORG DUB NETLABEL e O
 Con quest'ultima pubblica il disco "Psychotic Symphony" (Gennaio 2013)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

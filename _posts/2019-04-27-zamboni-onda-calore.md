@@ -2,7 +2,7 @@
 layout: post
 title: Massimo Zamboni - Onda improvvisa di calore TOUR (Deposito Pontecorvo, PI)
 description: foto del concerto
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
 
 <a href="https://www.piuomenopop.it/index.php/2019/04/28/onda-improvvisa-di-calore-massimo-zamboni-incanta-il-deposito-pontecorvo-foto-dellevento/" >
@@ -10,3 +10,4 @@ tags: [piuomenopop, photostory]
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2019/04/28/onda-improvvisa-di-calore-massimo-zamboni-incanta-il-deposito-pontecorvo-foto-dellevento/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

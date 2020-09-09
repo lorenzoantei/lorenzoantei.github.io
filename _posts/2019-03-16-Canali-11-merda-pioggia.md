@@ -2,7 +2,7 @@
 layout: post
 title: Giorgio Canali & Rossofuoco - Undici canzoni di merda con la pioggia dentro Tour (Cinema Lumiere, PI)
 description: foto del concerto al Cinema Lumiere di Pisa
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
 
 <a href="https://www.piuomenopop.it/index.php/2019/03/17/giorgio-canali-rossofuoco-live-al-cinema-lumiere-pi-tutte-le-foto/" >
@@ -10,3 +10,4 @@ tags: [piuomenopop, photostory]
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2019/03/17/giorgio-canali-rossofuoco-live-al-cinema-lumiere-pi-tutte-le-foto/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

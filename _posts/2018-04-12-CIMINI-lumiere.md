@@ -2,7 +2,7 @@
 layout: post
 title: CIMINI - Cinema Lumiere
 description: Concerto di CIMINI al Cinema Lumiere (PI)
-tags: [radioeco, photostory]
+tags: [radioeco, photostory, live]
 ---
 
 <div class="media-container">
@@ -15,3 +15,4 @@ CIMINI, cantautore calabrese, da anni trasferitosi a Bologna dove riesce a crear
 I nuovi brani vengono subito apprezzati dall'etichetta Garrincha Dischi, che decide di affidare la produzione a Nicola Roda (Keaton) ed Enrico Roberto ([Lo Stato Sociale](https://www.youtube.com/results?search_query=lo+stato+sociale)) del suo nuovo disco in uscita a Marzo 2018, con il primo sorprendente risultato che è il singolo "[La Legge Di Murphy](https://www.youtube.com/watch?v=AhHmjvain0Q)", accompagnato dalla campagna di promozione virale su Rolling Stone Italia e dalle oltre 50.000 visualizzazioni del videoclip su Youtube e i 200.000 ascolti su Spotify.
 
 {% include tag-list.html %}
+{% include sharealike.html %}

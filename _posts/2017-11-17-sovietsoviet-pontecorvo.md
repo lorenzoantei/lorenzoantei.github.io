@@ -2,7 +2,7 @@
 layout: post
 title: Soviet Soviet - Deposito Pontecorvo
 description: Concerto dei Soviet Soviet al Deposito Pontecorvo (PI)
-tags: [radioeco, photostory]
+tags: [radioeco, photostory, live]
 ---
 
 <div class="media-container">
@@ -25,3 +25,4 @@ Nel 2013 esce il loro secondo album dal titolo Fate per la Felte.
 Nel 2017 un loro tour promozionale negli Stati Uniti è stato annullato poiché è stato loro negato l'ingresso; gli agenti di frontiera li hanno infatti considerati come "immigrati clandestini".
 
 {% include tag-list.html %}
+{% include sharealike.html %}

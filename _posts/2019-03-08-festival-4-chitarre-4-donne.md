@@ -2,7 +2,7 @@
 layout: post
 title: 4 cantautrici e 4 chitarre (Barlume, MS)
 description: foto del concerto al Cinema Lumiere di Pisa
-tags: [piuomenopop, photostory]
+tags: [piuomenopop, photostory, live]
 ---
 
 <a href="https://www.piuomenopop.it/index.php/2019/03/09/4-cantautrici-e-4-chitarre-per-l8-marzo-il-festival-delle-donne/" >
@@ -10,3 +10,4 @@ tags: [piuomenopop, photostory]
 ###### [photostory su piuomenopop.it](https://www.piuomenopop.it/index.php/2019/03/09/4-cantautrici-e-4-chitarre-per-l8-marzo-il-festival-delle-donne/)
 
 {% include tag-list.html %}
+{% include sharealike.html %}

@@ -2,7 +2,7 @@
 layout: post
 title: MOKADELIC - Cinema Lumiere
 description: Concerto dei MOKADELIC al Cinema Lumiere (PI)
-tags: [radioeco, photostory]
+tags: [radioeco, photostory, live]
 ---
 
 <div class="media-container">
@@ -18,3 +18,4 @@ Fra le più interessanti espressioni del post rock italiano, capaci di risvegli
 "Chronicles" è il primo lavoro originale dei Mokadelic in 10 anni, non composto per un film o una serie televisiva.
 
 {% include tag-list.html %}
+{% include sharealike.html %}
