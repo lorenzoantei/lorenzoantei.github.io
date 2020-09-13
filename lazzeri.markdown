@@ -20,10 +20,10 @@ Progetto inizialmente elaborato durante il corso seguito nell'anno accademico 20
 <br/>
 # Altri progetti personali:  
 ## 11 shoots  
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/449447656?autoplay=1&color=ffffff&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/449447656?color=ffffff&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br/>
 ## 5PM meeting  
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/449447348?autoplay=1&color=ffffff&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/449447348?color=ffffff&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br/>
 ## Memorie di infanzia  
 Il [portale](https://www.memoriedinfanzia.it/) raccoglie le memorie di testimoni che hanno vissuto la loro infanzia nell’Italia repubblicana, attraversando dunque le grandi trasformazioni che investirono il Paese, fra cui il Miracolo economico e l’affermazione della società affluente.
@@ -54,7 +54,5 @@ Per il progetto ho realizzato il concept, le animazioni, la scelta e modifica de
 ## Nessiah Festival - SPOT '19
 Spot riassuntivo delle ultime due edizioni del festival Nessiah della Cultura Ebraica di Pisa.
 Per il progetto ho realizzato le riprese A/V, le animazioni, il montaggio ed il concept (in collaborazione con la direzione artistica).
-<div class="media-container">
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/451425838?autoplay=1&color=ffffff&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-</div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/451425838?color=ffffff&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br/>
